@@ -1,3 +1,5 @@
+// https://github.com/realtvop/cryptoltv.js
+
 function hmacsha256(digest, secret) {
             const encoder = new TextEncoder();
             const data = encoder.encode(digest);
