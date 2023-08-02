@@ -19,4 +19,4 @@ function hmacsha256(digest, secret) {
   });
 }
 
-export default { hmacsha56 };
+export default { hmacsha256 };
